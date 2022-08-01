@@ -7,3 +7,5 @@ The visualizer is based on a sphere with simplex noise (https://pypi.org/project
 2. The speed at which the noise oscillates (currently scales with median frequency content value)
 3. The base size of the sphere (currently turned off)
 4. The size of the bumps in the noise (currently turned off)
+
+Note that the file used to run the full program is opengl_vis.py, the other files are intermediary steps in my process of learning to use OpenGL!
